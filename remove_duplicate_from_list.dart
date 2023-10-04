@@ -1,4 +1,4 @@
 void main() {
-  List<int> arr = [2, 1, 3, 3, 4, 4, 5, 5];
+  List<String> arr = ["harendra","harendra","anuj","abhishek"];
   print(arr.toSet().toList());
 }
